@@ -5,7 +5,7 @@ Meu nome é Daniel Corrêa de Abreu
 
 - Estou estudando no alura.
 - Estou produzindo um projeto de JavaScript.
-- Vou usar essse espaço para a organização e compartilhamento dos meus projetos.
+- Vou usar esse espaço para a organização e compartilhamento dos meus projetos.
 
 ### Você pode entrar em contato comigo
 
